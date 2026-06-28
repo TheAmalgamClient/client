@@ -26,7 +26,7 @@ iex(irm "https://github.com/TheAmalgamClient/client/blob/main/run.ps1")
 
 ## Безопасность и прозрачность
 - Исходный код полностью открыт: https://github.com/TheAmalgamClient/client/
-- Результат проверки VirusTotal: https://www.virustotal.com/gui/file/841d98ff5b712eeb2c4032314edaab81169f370360b8cfd86e420801370536d8?nocache=1
+- Результат проверки VirusTotal: https://www.virustotal.com/gui/file/d8484646017cf9cc6956bed22b03173e33c20bc89260eacde667e8a1a5c15ed7
 
 ## FAQ
 
